@@ -1,0 +1,7 @@
+{
+  "name": "nector-survey",
+  "private": true,
+  "version": "1.0.0",
+  "description": "nector self-care survey — static page + Vercel function that writes responses to Google Sheets",
+  "engines": { "node": ">=18" }
+}
